@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="355.73801"
+   height="422.90732"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="apps-approaches-taxonomy.svg">
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs24">
+    <linearGradient
+       id="linearGradient3837">
+      <stop
+         style="stop-color:#ffcc00;stop-opacity:1;"
+         offset="0"
+         id="stop3839" />
+      <stop
+         style="stop-color:#ff6600;stop-opacity:1;"
+         offset="1"
+         id="stop3841" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3837"
+       id="linearGradient3877"
+       gradientUnits="userSpaceOnUse"
+       x1="163.95078"
+       y1="361.12747"
+       x2="163.95078"
+       y2="164.34872" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1099"
+     inkscape:window-height="680"
+     id="namedview22"
+     showgrid="false"
+     inkscape:zoom="0.98333331"
+     inkscape:cx="127.91572"
+     inkscape:cy="202.63758"
+     inkscape:window-x="90"
+     inkscape:window-y="53"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+  <g
+     id="g3947">
+    <rect
+       transform="matrix(0,-1,1,0,0,0)"
+       style="fill:none;stroke:#000000;stroke-width:5"
+       x="-208.05331"
+       y="2.5"
+       width="187.00002"
+       height="48"
+       id="svg_7" />
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:18px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0;stroke-dasharray:none;font-family:serif"
+       stroke-linejoin="null"
+       stroke-linecap="null"
+       x="-114.55332"
+       y="32.5"
+       id="svg_3"
+       font-size="18"
+       xml:space="preserve">Web technologies</text>
+  </g>
+  <g
+     id="g3953">
+    <rect
+       transform="matrix(0,-1,1,0,0,0)"
+       style="fill:none;stroke:#000000;stroke-width:5"
+       x="-396.40079"
+       y="2.5"
+       width="185.34747"
+       height="48"
+       id="svg_2" />
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:18px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0;stroke-dasharray:none;font-family:serif"
+       stroke-linejoin="null"
+       stroke-linecap="null"
+       x="-303.7666"
+       y="31.338379"
+       font-size="18"
+       xml:space="preserve"
+       id="svg_4">Other technologies</text>
+  </g>
+  <g
+     id="g3797">
+    <rect
+       id="svg_30"
+       height="63.999996"
+       width="203.99998"
+       y="95.303322"
+       x="59.561813"
+       stroke-linecap="null"
+       stroke-linejoin="null"
+       style="fill:#ff6600;fill-opacity:1;stroke:#0000ff;stroke-width:5;stroke-dasharray:none" />
+    <text
+       style="font-size:18px;text-anchor:middle;fill:#000000;stroke:none;font-family:serif"
+       id="svg_31"
+       xml:space="preserve"
+       font-size="18"
+       y="129.55333"
+       x="161.56181"
+       stroke-linecap="null"
+       stroke-linejoin="null">Web-OS apps</text>
+  </g>
+  <rect
+     style="fill:url(#linearGradient3877);fill-opacity:1;stroke:#0000ff;stroke-width:4.99999952000000025;stroke-dasharray:none"
+     stroke-linejoin="null"
+     stroke-linecap="null"
+     x="59.561813"
+     y="168.30331"
+     width="203.99998"
+     height="227.95288"
+     id="svg_32" />
+  <rect
+     style="fill:#784421;fill-opacity:1;stroke:none"
+     id="rect3035-2"
+     width="15.820016"
+     height="307.77121"
+     x="272.36667"
+     y="92.723862" />
+  <text
+     stroke-linejoin="null"
+     stroke-linecap="null"
+     x="-246.64902"
+     y="304.35132"
+     font-size="18"
+     xml:space="preserve"
+     id="svg_33-6"
+     style="font-size:18px;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0;stroke-dasharray:none;font-family:serif"
+     transform="matrix(0,-1,1,0,0,0)">OS apps</text>
+  <rect
+     style="fill:#ff6600;fill-opacity:1;stroke:none"
+     id="rect3035"
+     width="15.820016"
+     height="143.81833"
+     x="317.28763"
+     y="18.657421" />
+  <text
+     stroke-linejoin="null"
+     stroke-linecap="null"
+     x="-90.144714"
+     y="351.99387"
+     font-size="18"
+     xml:space="preserve"
+     id="svg_33-6-7"
+     style="font-size:18px;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0;stroke-dasharray:none;font-family:serif"
+     transform="matrix(0,-1,1,0,0,0)">Web apps</text>
+  <text
+     stroke-linejoin="null"
+     stroke-linecap="null"
+     x="161.32449"
+     y="418.90829"
+     font-size="18"
+     xml:space="preserve"
+     id="svg_35-3"
+     style="font-size:18px;text-anchor:middle;fill:#0000ff;stroke:none;stroke-width:0;stroke-dasharray:none;font-family:serif">OS packaging</text>
+  <g
+     id="g3803">
+    <rect
+       id="svg_12"
+       height="63.999996"
+       width="203.99998"
+       y="21.053307"
+       x="59.561813"
+       stroke-linecap="null"
+       stroke-linejoin="null"
+       style="fill:#ff6600;fill-opacity:1;stroke:#008000;stroke-width:5;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       font-size="18"
+       id="svg_17"
+       y="55.303299"
+       x="161.56181"
+       stroke-linecap="null"
+       stroke-linejoin="null"
+       style="font-size:18px;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0;stroke-dasharray:none;font-family:serif">Browser-based apps</text>
+  </g>
+  <text
+     stroke-linejoin="null"
+     stroke-linecap="null"
+     x="161.06961"
+     y="13.675781"
+     font-size="18"
+     xml:space="preserve"
+     id="svg_35-3-6"
+     style="font-size:18px;text-anchor:middle;fill:#008000;stroke:none;stroke-width:0;stroke-dasharray:none;font-family:serif">In the browser</text>
+  <rect
+     style="fill:#ffcc00;fill-opacity:1;stroke:none"
+     id="rect3035-2-4"
+     width="15.820016"
+     height="233.34521"
+     x="317.31104"
+     y="165.11298" />
+  <text
+     stroke-linejoin="null"
+     stroke-linecap="null"
+     x="-281.64496"
+     y="351.99387"
+     font-size="18"
+     xml:space="preserve"
+     id="svg_33-6-1"
+     style="font-size:18px;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0;stroke-dasharray:none;font-family:serif"
+     transform="matrix(0,-1,1,0,0,0)">native apps</text>
+  <text
+     stroke-linejoin="null"
+     stroke-linecap="null"
+     x="-258.92068"
+     y="166.40018"
+     font-size="18"
+     xml:space="preserve"
+     id="svg_33"
+     style="font-size:18px;text-anchor:middle;fill:#000000;stroke:none;font-family:serif"
+     transform="matrix(0,-1,1,0,0,0)">Hybrid apps</text>
+  <text
+     stroke-linejoin="null"
+     stroke-linecap="null"
+     x="161.97488"
+     y="189.00728"
+     font-size="18"
+     xml:space="preserve"
+     id="svg_33-8"
+     style="font-size:12px;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0;stroke-dasharray:none;font-family:serif">Wrapped Web app</text>
+  <text
+     stroke-linejoin="null"
+     stroke-linecap="null"
+     x="161.51346"
+     y="389.72382"
+     font-size="18"
+     xml:space="preserve"
+     id="svg_33-7"
+     style="font-size:12px;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0;stroke-dasharray:none;font-family:serif">Pure native</text>
+</svg>

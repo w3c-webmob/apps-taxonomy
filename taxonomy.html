@@ -1,0 +1,108 @@
+<!doctype html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Taxonomy of Mobile Application Platforms (September 2013 draft)</title>
+    <link rel="stylesheet" href="http://www.w3.org/2007/08/video/style.css" type="text/css"/>
+    <link rel="stylesheet" href="http://www.w3.org/2007/08/video/print.css" type="text/css" media="print"/>
+    <link rel="stylesheet" href="http://www.w3.org/2013/06/mobile-web-app-state/style.css" type="text/css"/>
+    <style>figure { text-align:center; margin: 1em; }
+ figcaption { font-style: italic;}
+dd { margin-bottom:1em;}
+dt { margin-bottom: 0.2em;}
+dd p:first-child { margin-top: 0.5em;}
+p.continued { margin-bottom: 0em;}
+th.category { color: #E2EDFE; background-color:#005A9C;}
+td ul { margin:0; padding:0;}
+td ul li { margin-left:0.7em;}
+div.issue, div.note {
+    clear: both;
+    margin: 1em 0;
+    padding: 1em 1.2em 0.5em;
+    position: relative;
+}
+.issue {
+    background: none repeat scroll 0 0 #FBE9E9;
+    border-color: #E05252;
+}
+.issue, .note {
+    border-left-style: solid;
+    border-left-width: 0.5em;
+    padding: 0.5em;
+}
+tbody {
+ page-break-inside:avoid;
+}
+/*table { margin:0 -5em;}*/
+
+</style>
+  </head>
+  <body>
+    <div id="page">
+      <h1>Taxonomy of Mobile Application Platforms</h1>
+      <h2>September 2013 Draft</h2>
+    </div>
+    <div id="main">
+      <p class="logo">
+        <a href="/">
+          <img alt="W3C" src="/Icons/w3c_home"/>
+        </a>
+      </p>
+<h2>Status</h2>
+<p>This is a draft, work-in-progress analysis derived from the <a href="http://www.w3.org/wiki/Closing_the_gap_with_native">“Closing the Gap with Native” Headlight task force</a>.</p>
+
+<h2>Introduction</h2>
+
+<p>The many mobile ecosystems available on the market today provide a number of different development approaches for applications.</p>
+
+<p>The fragmentation created by that diversity of programming languages, SDKs, packaging formats has brought to the front the possibility to use Web technologies as a way to address as many platforms as possible.</p>
+
+<p>The mix and match of Web technologies and so-called native ones have led to many comparison between these different development approaches, often refered to as Web applications, hybrid applications and native applications.</p>
+
+<p>But the boundaries between these various approaches are often at best ill-defined. This document proposes a taxonomy of these different approaches to ensure a common vocabulary can be used in making these comparisons.</p>
+
+
+<h2>Taxonomy</h2>
+<p>We define the following terms to help navigate the many ways in which Web technologies are used to develop applications on mobile:</p>
+<dl>
+<dt>Mobile application</dt>
+<dd>An application that runs on mobile devices</dd>
+<dt>Web application</dt>
+<dd>An application entirely built with Web technologies</dd>
+<dt>Default technology stack</dt>
+<dd>Set of technologies provided by a mobile operating system to build applications</dd>
+<dt>OS application</dt>
+<dd>An application built with the operating system default technology stack</dd>
+<dt>Web-based operating system</dt>
+<dd>An operating system where OS applications can be developed using only Web technologies (even if the default technology stack goes beyond the Web)</dd>
+<dt>Native application</dt>
+<dd>An OS application that uses non-Web technologies</dd>
+<dt>Browser-based application</dt>
+<dd>A Web application that can be run in a browser</dd>
+<dt>Web-OS application</dt>
+<dd>A Web application that runs in a Web-based operating system</dd>
+<dt>Hybrid application</dt>
+<dd>A native application that is developed partly with client-side Web technologies; this ranges from a Web app simply wrapped into a native packaging, to a mostly native app that uses HTML/CSS rendering in a few places</dd>
+</dl>
+<div class=issue>Should this also introduce hosted/packaged apps? Is that another continuum?</div>
+<div class=issue>Alternative model: OS apps become native apps, and there is thus an overlap between native and Web</div>
+<figure>
+<img src="apps-approaches-taxonomy.svg" alt="Diagram positioning the various approaches in using Web technologies to develop mobile apps">
+<figcaption>A taxonomy of the various approaches available to develop mobile applications with Web technologies</figcaption>
+</figure>
+<div class=issue>Is there really a hard line between browser-based apps and Web-OS apps? shouldn't the latter be a superset of the other instead? should this include the notion of privileged APIs and hosted vs packaged? In any case, the different border for "in the browser" vs "os packaging" seems redundant; "browser sandbox" would probably be more relevant to express the distinction on privileged access.</div>
+      <div id="footer">
+        <p style="text-align:left;margin-left:0;margin-right:auto;">
+          <span style="font-size: 10pt"><a href="http://webinos.org/"><img alt="Webinos logo" src="http://www.w3.org/2012/08/web-and-automotive/webinos.png" style="float: left"/></a> This project is funded by the European Union through the
+Seventh Framework Programme (FP7/2010-2013) under grant agreement n°257103
+
+<a href="http://webinos.org/">webinos</a></span>
+        </p>
+        <hr/>
+        <address><a href="http://www.w3.org/People/Dom/">Dominique
+Hazaël-Massieux</a> &lt;<a href="mailto:dom@w3.org">dom@w3.org</a>&gt; / <a href="http://twitter.com/dontcallmedom">@dontcallmedom</a><br/>
+Last Modified: $Date: 2013-09-18 07:42:18 $</address>
+      </div>
+    </div>
+  </body>
+</html>
